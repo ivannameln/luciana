@@ -1,7 +1,7 @@
-describe.only ( "pohui", function () {
+describe ( "pohui", function () {
 
     it( "string", function () {
 
-        cy.visit("www.google.com")
+        cy.visit("https://asterios.tm/index.html")
     })
 })
