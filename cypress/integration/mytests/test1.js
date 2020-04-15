@@ -1,4 +1,4 @@
-describe ( "pohui", function () {
+describe.only ( "pohui", function () {
 
     it( "string", function () {
 
